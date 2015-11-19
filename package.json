@@ -1,23 +1,23 @@
 {
-  "name": "webpack-express-boilerplate",
-  "version": "0.1.0",
-  "description": "A boilerplate for running a Webpack workflow in Node express",
+  "name": "Legend of the JavaScript Dragon",
+  "version": "0.0.1",
+  "description": "A browser game based on Legend of the Green Dragon (lotgd.net).",
   "main": "server.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/christianalfoni/webpack-express-boilerplate.git"
+    "url": "https://github.com/Tmarty/Legend-of-the-JavaScript-Dragon.git"
   },
   "keywords": [
     "express",
     "webpack",
     "node"
   ],
-  "author": "Christian Alfoni",
+  "author": "Torbjørn Martinsen",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/christianalfoni/webpack-express-boilerplate/issues"
+    "url": "https://github.com/Tmarty/Legend-of-the-JavaScript-Dragon/issues"
   },
-  "homepage": "https://github.com/christianalfoni/webpack-express-boilerplate",
+  "homepage": "https://github.com/Tmarty/Legend-of-the-JavaScript-Dragon",
   "scripts": {
     "test": "",
     "start": "babel-node server",
@@ -26,8 +26,9 @@
     "jscs": "jscs ."
   },
   "dependencies": {
-    "react": "0.14.0-rc1 ",
-    "react-dom": "0.14.0-rc1"
+    "react": "^0.14.3",
+    "react-bootstrap": "^0.28.1",
+    "react-dom": "^0.14.3",
   },
   "devDependencies": {
     "autoprefixer": "^6.0.3",
