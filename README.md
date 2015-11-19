@@ -1,18 +1,10 @@
-<<<<<<< HEAD
-# webpack-express-boilerplate
-A boilerplate for running a Webpack workflow in Node express
-
-Please read the following article: [The ultimate Webpack setup](http://www.christianalfoni.com/articles/2015_04_19_The-ultimate-webpack-setup) to know more about this boilerplate.
-
-## Major update to project
-Inspired by [this project](https://github.com/vesparny/react-kickstart) and the evolving of [react-transform](https://github.com/gaearon/react-transform-boilerplate) and [CSS Modules]((http://glenmaddern.com/articles/css-modules)), this project has gotten a major upgrade.
-
-**NOTE!** Use the latest version of Node, 4.x.x.
+# Legend-of-the-JavaScript-Dragon
+Browser game in React based on the game found on lotgd.net.
 
 ## Overview
 
 ### React by default
-The project runs with React by default and hot replacement of changes to the modules. Currently it is on 0.14 RC.
+The project runs with React by default and hot replacement of changes to the modules. Currently it is on 0.14.3.
 
 ### CSS Modules
 CSS files loaded into components are locally scoped and you can point to class names with javascript. You can also compose classes together, also from other files. These are also hot loaded. Read more about them [here](http://glenmaddern.com/articles/css-modules).
@@ -24,7 +16,3 @@ Both Node server and frontend code runs with Babel. And all of it is linted. Wit
 
 ### Beautify
 With a beautify package installed in your editor it will also do that
-=======
-# Legend-of-the-JavaScript-Dragon
-Browser game in React based on the game found on lotgd.net.
->>>>>>> 2f5d1995574d8397921051493408e73118e20b06
